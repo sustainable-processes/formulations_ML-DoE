@@ -1,0 +1,67 @@
+,S1,S2
+1,Texapon SB 3 KC,Plantapon ACG 50
+2,Texapon SB 3 KC,Plantapon LC 7
+3,Texapon SB 3 KC,Plantacare 818
+4,Texapon SB 3 KC,Plantacare 2000
+5,Texapon SB 3 KC,Dehyton MC
+6,Texapon SB 3 KC,Dehyton PK 45
+7,Texapon SB 3 KC,Dehyton ML
+8,Texapon SB 3 KC,Dehyton AB 30
+9,Texapon SB 3 KC,Plantapon Amino SCG-L
+10,Texapon SB 3 KC,Plantapon Amino KG-L
+11,Texapon SB 3 KC,Dehyquart A-CA
+12,Plantapon ACG 50,Plantapon LC 7
+13,Plantapon ACG 50,Plantacare 818
+14,Plantapon ACG 50,Plantacare 2000
+15,Plantapon ACG 50,Dehyton MC
+16,Plantapon ACG 50,Dehyton PK 45
+17,Plantapon ACG 50,Dehyton ML
+18,Plantapon ACG 50,Dehyton AB 30
+19,Plantapon ACG 50,Plantapon Amino SCG-L
+20,Plantapon ACG 50,Plantapon Amino KG-L
+21,Plantapon ACG 50,Dehyquart A-CA
+22,Plantapon LC 7,Plantacare 818
+23,Plantapon LC 7,Plantacare 2000
+24,Plantapon LC 7,Dehyton MC
+25,Plantapon LC 7,Dehyton PK 45
+26,Plantapon LC 7,Dehyton ML
+27,Plantapon LC 7,Dehyton AB 30
+28,Plantapon LC 7,Plantapon Amino SCG-L
+29,Plantapon LC 7,Plantapon Amino KG-L
+30,Plantapon LC 7,Dehyquart A-CA
+31,Plantacare 818,Plantacare 2000
+32,Plantacare 818,Dehyton MC
+33,Plantacare 818,Dehyton PK 45
+34,Plantacare 818,Dehyton ML
+35,Plantacare 818,Dehyton AB 30
+36,Plantacare 818,Plantapon Amino SCG-L
+37,Plantacare 818,Plantapon Amino KG-L
+38,Plantacare 818,Dehyquart A-CA
+39,Plantacare 2000,Dehyton MC
+40,Plantacare 2000,Dehyton PK 45
+41,Plantacare 2000,Dehyton ML
+42,Plantacare 2000,Dehyton AB 30
+43,Plantacare 2000,Plantapon Amino SCG-L
+44,Plantacare 2000,Plantapon Amino KG-L
+45,Plantacare 2000,Dehyquart A-CA
+46,Dehyton MC,Dehyton PK 45
+47,Dehyton MC,Dehyton ML
+48,Dehyton MC,Dehyton AB 30
+49,Dehyton MC,Plantapon Amino SCG-L
+50,Dehyton MC,Plantapon Amino KG-L
+51,Dehyton MC,Dehyquart A-CA
+52,Dehyton PK 45,Dehyton ML
+53,Dehyton PK 45,Dehyton AB 30
+54,Dehyton PK 45,Plantapon Amino SCG-L
+55,Dehyton PK 45,Plantapon Amino KG-L
+56,Dehyton PK 45,Dehyquart A-CA
+57,Dehyton ML,Dehyton AB 30
+58,Dehyton ML,Plantapon Amino SCG-L
+59,Dehyton ML,Plantapon Amino KG-L
+60,Dehyton ML,Dehyquart A-CA
+61,Dehyton AB 30,Plantapon Amino SCG-L
+62,Dehyton AB 30,Plantapon Amino KG-L
+63,Dehyton AB 30,Dehyquart A-CA
+64,Plantapon Amino SCG-L,Plantapon Amino KG-L
+65,Plantapon Amino SCG-L,Dehyquart A-CA
+66,Plantapon Amino KG-L,Dehyquart A-CA
