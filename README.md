@@ -1,4 +1,4 @@
-# ML-guided MaxProQQ Designs for Liquid Formulations
+# Machine Learning-Guided Space-filling Designs for High Throughput Liquid Formulations Development
 
 We developed a (weighted-) space filling design for liquid formulations. These codes and files support our manuscript with this title. 
 
