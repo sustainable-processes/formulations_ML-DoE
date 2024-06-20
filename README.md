@@ -1,6 +1,6 @@
 # Machine Learning-Guided Space-filling Designs for High Throughput Liquid Formulations Development
 
-We developed a (weighted-) space filling design for liquid formulations. These codes and files support our manuscript with this title. 
+We developed a (weighted-) space-filling design for liquid formulations. These codes and files support our manuscript: [preprint here](https://doi.org/10.26434/chemrxiv-2024-18rgd).
 
 The ML-guided DoE is in two main codes. Firstly, the `Formulations_DoE.R` script is used to generate a MaxProQQ design and read our experimental data. Then, we use the `PhaseStability_ML.ipynb` Python notebook to train the best performing phase-stability classifier over this experimental data and use the classifier to predict feasible regions of the design space. A file outputted from this notebook (`RestrictedDesign.csv`) needs to be read into the R script which uses the `MaxProAugment()` function to then suggest the next batch of experiments to perform. 
 
